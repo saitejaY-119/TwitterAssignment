@@ -1,6 +1,6 @@
 # TwitterAssignment
 
-This project provides a REST API for interacting with the Twitter API to search for users and retrieve their tweets.
+This project provides a REST API for interacting with the Twitter API to search for users and retrieve their tweets with the help of twitter4J java library.
 
 ## Installation
 
